@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexfofo
+- 👀 I’m interested in lots of stuff, sciences of all kind, mars, doge
+- 🌱 I’m currently learning sqlachemy, flask, postgresql
+- 💞️ I’m looking to collaborate on anything making me billionaire (in knowledge more than in dollars humhumm)
+- 📫 How to reach me: yell at me on the street i should yell back at you
